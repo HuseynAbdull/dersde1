@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.starter{
+    text-align: center;
+    overflow: auto;
+    
+}
+
+.starter h3{
+    color: #ecb807;
+    font-size: 16px;
+    font-weight: bold;
+    
+}
+
+.starter h2{
+    color: black;
+    font-size: 48px;
+    font-weight: bold;
+    margin: 0 0 48px;
+}
+.box{
+    overflow: auto;
+    width: 80%;
+    margin: 0 auto;
+}
+.box .img{
+    width: 50%;
+    float: left;
+    
+}
+.box .img img {
+    width: 100%;
+    vertical-align: bottom;
+     
+}
+
+
+
+
+
